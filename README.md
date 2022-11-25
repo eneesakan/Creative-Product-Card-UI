@@ -1,2 +1,2 @@
 # Creative-Product-Card-UI
- Product card UI desing (Nike sneakers)
+ Product card UI design (Nike sneakers)
