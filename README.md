@@ -13,8 +13,8 @@ https://user-images.githubusercontent.com/84860191/206593819-99e5388a-b4e2-4e32-
 # Ekran Görüntüleri
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/84860191/206594249-9c82fa44-3b32-4d39-8224-a3d7f0bbf818.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/84860191/206594270-6793aa09-38a5-43eb-8b94-ac1b52cc3130.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/84860191/206594249-9c82fa44-3b32-4d39-8224-a3d7f0bbf818.png" width="340" />
+  <img src="https://user-images.githubusercontent.com/84860191/206594270-6793aa09-38a5-43eb-8b94-ac1b52cc3130.png" width="340" />
 </p>
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
